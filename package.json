@@ -12,5 +12,8 @@
   },
   "devDependencies": {
     "live-server": "^1.2.2"
+  },
+  "dependencies": {
+    "typed.js": "^2.1.0"
   }
 }
